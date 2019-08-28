@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "changing for the bot!!"
 date: 2019-08-28
 ---
 
