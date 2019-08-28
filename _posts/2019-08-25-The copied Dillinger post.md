@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "changing for the bot"
 date: 2019-08-28
 ---
 
